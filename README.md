@@ -18,7 +18,7 @@
 ### 2. Задеплойте инициализатор базы
 1. Перейдите в **Workers & Pages** → **Create application**
 2. Создайте Worker: Название `forum`, выберите шаблон "Hello World"
-3. В настройках (Settings → Bindings) добавьте привязку D1:
+3. В настройках воркера (Settings → Bindings) добавьте привязку D1:
    - Variable name: `DB`
    - D1 database: `forum-db`
 4. Нажмите **Edit code** и замените код на содержимое файла `initializatorDB.js`
