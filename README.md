@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 Ностальгический движок форума в стиле Windows 98/2001, работающий на edge-инфраструктуре Cloudflare.
-
+![скриншот](skreenshot.png)
 ---
 
 ## 🚀 Быстрый старт
